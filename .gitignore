@@ -2,4 +2,3 @@
 *.log
 
 # ignore ALL files in ANY directory src temp
-/src/index.html
